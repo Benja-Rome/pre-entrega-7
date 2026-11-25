@@ -1,0 +1,30 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f2f2f2;
+	padding: 20px;
+}
+
+.caja {
+	background-color: white;
+	border: 1px solid #ccc;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.producto {
+	background-color: white;
+	border: 1px solid #ccc;
+	padding: 10px 15px;
+	margin-bottom: 8px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+button {
+	background-color: #333;
+	color: white;
+	border: none;
+	padding: 6px 10px;
+	cursor: pointer;
+}
